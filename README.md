@@ -1,5 +1,15 @@
-# HuntingMicroMonsters: Bioinformatic Analysis Workflow
+<p align="center">
+  <img src="HMM.png" alt="Hunting MicroMonsters Banner" width="700"/>
+</p>
 
+<p align="center">
+  <a href="https://hmicromonsters.wordpress.com/">
+    <img src="https://img.shields.io/badge/Project_Website-hmicromonsters.wordpress.com-blue?style=for-the-badge&logo=wordpress" alt="Website"/>
+  </a>
+</p>
+
+---
+# Bioinformatic Analysis Workflow
 ## Project Overview
 This project describes the workflow to perform bioinformatic analysis of the sequencing data obtained from the project: "HuntingMicroMonsters" . 
 
