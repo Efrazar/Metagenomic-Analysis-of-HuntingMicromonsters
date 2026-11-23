@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.fast5
+*.pod5
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.kraken
+*.kreport
+*.bracken
+output/
